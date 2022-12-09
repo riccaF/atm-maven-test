@@ -38,7 +38,7 @@ public class TestEuro
     @Test
     public void testSomma() {
         testEuro1.somma(testEuro1);
-        assertEquals(testEuro1.getValore(), 2040);
+        assertEquals(testEuro1.getValore(), 2041);
     }
 
     @Test
